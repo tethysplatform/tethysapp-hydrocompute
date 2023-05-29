@@ -10,7 +10,7 @@ class Hydrocompute(TethysAppBase):
     description = 'Tethys app that demonstrates the capabilities of the HydroCompute library'
     package = 'hydrocompute'  # WARNING: Do not change this value
     index = 'home'
-    icon = f'{package}/images/icon.gif'
+    icon = f'{package}/images/sticker_uihilab2_white.png'
     root_url = 'hydrocompute'
     color = '#f39c12'
     tags = ''
