@@ -1,0 +1,3 @@
+[submodule "tethysapp/hydrocompute/public/HydroCompute"]
+	path = tethysapp/hydrocompute/public/HydroCompute
+	url = https://github.com/uihilab/HydroCompute.git
